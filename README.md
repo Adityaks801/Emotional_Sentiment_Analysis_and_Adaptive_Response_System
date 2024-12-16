@@ -27,7 +27,7 @@ Modular Design: The system is designed in a modular way for easy extension and c
 
 Clone the repository:
 
-git clone (https://github.com/Adityaks801/Emotional_Sentiment_Analysis_and_Adaptive_Response_System).git
+git clone https://github.com/Adityaks801/Emotional_Sentiment_Analysis_and_Adaptive_Response_System.git
 cd Emotional-Sentiment-Analysis
 Install required dependencies:
 
